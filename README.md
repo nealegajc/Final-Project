@@ -1,2 +1,2 @@
 # Final-Project
-Comprog x DSA
+Console based music playlist management written in C++
